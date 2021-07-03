@@ -1,2 +1,1 @@
-# workingwitharrays
-Created with CodeSandbox
+Created arrays and used various array methods to add, remove, and modify the elements. I also tested the arrays by using a function expression, for...of loop, and forEach().I combined two arrays and produced an all uppercase numbered list of hobbies and goals.
